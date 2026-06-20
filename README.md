@@ -1,6 +1,6 @@
 ## Hi, I'm Bintang 👋
 
-Computer Engineering grad from Indonesia, currently focused on **AI tooling and automation** — building MCP servers, LLM-powered pipelines, and agent skills. I like turning messy real-world problems into clean APIs and CLIs.
+Computer Engineering grad from Indonesia, currently focused on **AI tooling and automation** — building MCP servers, LLM-powered pipelines, and developer-friendly APIs. I like turning messy real-world problems into clean APIs and CLIs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -10,20 +10,14 @@ Computer Engineering grad from Indonesia, currently focused on **AI tooling and 
 
 ### 🚀 What I'm building
 
-- **[superslice](https://github.com/bintangtimurlangit/superslice)** — REST API for 3D-print estimation: POST an STL/3MF, get print time and filament usage back as JSON (powered by PrusaSlicer).
-- **[clipengine](https://github.com/bintangtimurlangit/clipengine)** — turns long videos into longform + shortform clips, using Whisper + LLM + FFmpeg.
-- **[tokopedia-mcp](https://github.com/bintangtimurlangit/tokopedia-mcp)** — MCP server for Tokopedia: search, product detail, shop, orders, and wishlist.
-- **[skills](https://github.com/bintangtimurlangit/skills)** — reusable OpenClaw/Codex agent skills.
+- **[superslice](https://github.com/bintangtimurlangit/superslice)** — drop in an STL or 3MF and get back exactly how long the print will take and how much filament it'll eat, served as clean JSON. A thin API layer over PrusaSlicer so apps don't have to wrangle the slicer themselves.
+- **[clipengine](https://github.com/bintangtimurlangit/clipengine)** — feed it a long video and it finds the good parts, cutting both longform edits and short clips automatically. Stitches together Whisper for transcripts, an LLM for picking moments, and FFmpeg for the cuts.
+- **[tokopedia-mcp](https://github.com/bintangtimurlangit/tokopedia-mcp)** — lets an AI assistant browse Tokopedia directly: search products, pull listing and shop details, and check orders or wishlists through the Model Context Protocol.
 
-### 🧰 Also explored
+### 🧰 Also out there
 
-A mix of full-stack web, IoT, and ML side projects:
-
-- **AquaCare** — smart aquarium platform: [device](https://github.com/bintangtimurlangit/aquacare-device) (Python + MQTT), [backend](https://github.com/bintangtimurlangit/aquacare-backend) (Express + Prisma), [app](https://github.com/bintangtimurlangit/aquacare-frontend) (React Native).
-- **[santo-ambrosius](https://github.com/bintangtimurlangit/santo-ambrosius)** — official website for St. Ambrose Church (Melati Mas), which I maintain. ⛪
-- **[coinsave](https://github.com/bintangtimurlangit/coinsave)** — personal finance / budgeting app built in Kotlin.
-- **[wallcrop](https://github.com/bintangtimurlangit/wallcrop)** — Qt desktop tool for cropping wallpapers for dual-monitor setups.
-- **[hackintosh](https://github.com/bintangtimurlangit/hackintosh)** — my EFI config running macOS on an i5-10400F / B460 / RX 580 build.
+- **[santo-ambrosius](https://github.com/bintangtimurlangit/santo-ambrosius)** — the website for St. Ambrose Church (Melati Mas), which I help maintain. ⛪
+- **[hackintosh](https://github.com/bintangtimurlangit/hackintosh)** — my documented EFI for running macOS Tahoe on an i5-10400F / B460 Steel Legend / RX 580 build, in case it saves someone else the headache.
 
 ### 🌐 Connect
 
