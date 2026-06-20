@@ -10,14 +10,14 @@ Computer Engineering grad from Indonesia, currently focused on **AI tooling and 
 
 ### 🚀 What I'm building
 
-- **[superslice](https://github.com/bintangtimurlangit/superslice)** — drop in an STL or 3MF and get back exactly how long the print will take and how much filament it'll eat, served as clean JSON. A thin API layer over PrusaSlicer so apps don't have to wrangle the slicer themselves.
-- **[clipengine](https://github.com/bintangtimurlangit/clipengine)** — feed it a long video and it finds the good parts, cutting both longform edits and short clips automatically. Stitches together Whisper for transcripts, an LLM for picking moments, and FFmpeg for the cuts.
-- **[tokopedia-mcp](https://github.com/bintangtimurlangit/tokopedia-mcp)** — lets an AI assistant browse Tokopedia directly: search products, pull listing and shop details, and check orders or wishlists through the Model Context Protocol.
+- **[superslice](https://github.com/bintangtimurlangit/superslice)** — STL/3MF in, print time & filament usage out, as JSON. Built on PrusaSlicer.
+- **[clipengine](https://github.com/bintangtimurlangit/clipengine)** — auto-cuts long videos into longform + short clips with Whisper, an LLM, and FFmpeg.
+- **[tokopedia-mcp](https://github.com/bintangtimurlangit/tokopedia-mcp)** — MCP server that lets AI assistants search and browse Tokopedia.
 
 ### 🧰 Also out there
 
-- **[santo-ambrosius](https://github.com/bintangtimurlangit/santo-ambrosius)** — the website for St. Ambrose Church (Melati Mas), which I help maintain. ⛪
-- **[hackintosh](https://github.com/bintangtimurlangit/hackintosh)** — my documented EFI for running macOS Tahoe on an i5-10400F / B460 Steel Legend / RX 580 build, in case it saves someone else the headache.
+- **[santo-ambrosius](https://github.com/bintangtimurlangit/santo-ambrosius)** — website for St. Ambrose Church (Melati Mas). ⛪
+- **[hackintosh](https://github.com/bintangtimurlangit/hackintosh)** — my EFI for running macOS on an i5-10400F / B460 / RX 580 build.
 
 ### 🌐 Connect
 
