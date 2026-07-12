@@ -5,9 +5,9 @@ Computer Engineering grad from Indonesia, currently focused on **AI tooling and 
 ### 🚀 What I'm building
 
 - **[superslice](https://github.com/bintangtimurlangit/superslice)** — STL/3MF in, print time & filament usage out, as JSON. Built on PrusaSlicer.
-- **[tokopedia-mcp](https://github.com/bintangtimurlangit/tokopedia-mcp)** — Search and browse Tokopedia listings.
-- **[shopee-mcp](https://github.com/bintangtimurlangit/shopee-mcp)** — Explore Shopee listings and prices via an authenticated session.
-- **[twikit-mcp](https://github.com/bintangtimurlangit/twikit-mcp)** — Full Twitter/X access, no X API key. Built on twikit.
+- **[tokopedia-mcp](https://github.com/bintangtimurlangit/tokopedia-mcp)** — search and browse Tokopedia listings.
+- **[shopee-mcp](https://github.com/bintangtimurlangit/shopee-mcp)** — explore Shopee listings and prices via an authenticated session.
+- **[twikit-mcp](https://github.com/bintangtimurlangit/twikit-mcp)** — full Twitter/X access, no X API key. Built on twikit.
 - **[clipengine](https://github.com/bintangtimurlangit/clipengine)** — auto-cuts long videos into longform + short clips with Whisper, an LLM, and FFmpeg.
 
 ### 🧰 Also out there
