@@ -5,16 +5,16 @@ Computer Engineering grad from Indonesia, currently focused on **AI tooling and 
 ### 🚀 What I'm building
 
 - **[superslice](https://github.com/bintangtimurlangit/superslice)** — STL/3MF in, print time & filament usage out, as JSON. Built on PrusaSlicer.
-- **[tokopedia-mcp](https://github.com/bintangtimurlangit/tokopedia-mcp)** — MCP server that lets AI assistants search and browse Tokopedia.
-- **[shopee-mcp](https://github.com/bintangtimurlangit/shopee-mcp)** — MCP server for exploring Shopee listings and prices via an authenticated session. Discovery only.
-- **[twikit-mcp](https://github.com/bintangtimurlangit/twikit-mcp)** — MCP server giving AI assistants full Twitter/X access (27 tools — post, search, timelines, DMs), no X API key. Built on twikit.
+- **[tokopedia-mcp](https://github.com/bintangtimurlangit/tokopedia-mcp)** — Search and browse Tokopedia listings.
+- **[shopee-mcp](https://github.com/bintangtimurlangit/shopee-mcp)** — Explore Shopee listings and prices via an authenticated session.
+- **[twikit-mcp](https://github.com/bintangtimurlangit/twikit-mcp)** — Full Twitter/X access, no X API key. Built on twikit.
 - **[clipengine](https://github.com/bintangtimurlangit/clipengine)** — auto-cuts long videos into longform + short clips with Whisper, an LLM, and FFmpeg.
 
 ### 🧰 Also out there
 
-- **[santo-ambrosius](http://santoambrosius.org)** — website for St. Ambrose Church (Melati Mas). ⛪
-- **[Superfreak Studio](https://lab.superfreakstudio.com)** — the lab where I ship experiments and side projects. 🧪
-- **[marjinkiri](https://marjinkiri.id)** — my latest web project, live in the wild.
+- **[santo ambrosius](http://santoambrosius.org)** — website for my local church.
+- **[superfreak studio](https://lab.superfreakstudio.com)** — the site where I ship production grade of [superslice](https://github.com/bintangtimurlangit/superslice).
+- **[marjinkiri](https://marjinkiri.id)** — catalog site for Marjin Kiri (a book publishing company).
 - **[hackintosh](https://github.com/bintangtimurlangit/hackintosh)** — my EFI for running macOS on an i5-10400F / B460 / RX 580 build.
 
 ---
