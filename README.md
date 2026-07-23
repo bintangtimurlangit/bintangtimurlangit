@@ -10,7 +10,6 @@ Computer Engineering grad from Indonesia, currently focused on **AI tooling and 
 - **[threads-mcp](https://github.com/bintangtimurlangit/threads-mcp)** — read and manage Threads through an authenticated browser session.
 - **[twikit-x-mcp](https://github.com/bintangtimurlangit/twikit-x-mcp)** — full Twitter/X access, no X API key. Built on twikit.
 - **[ebay-terapeak-mcp](https://github.com/bintangtimurlangit/ebay-terapeak-mcp)** — search eBay Terapeak sold and active listings through Seller Hub.
-- **[clipengine](https://github.com/bintangtimurlangit/clipengine)** — auto-cuts long videos into longform + short clips with Whisper, an LLM, and FFmpeg.
 
 ### 🧰 Also out there
 
