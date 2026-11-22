@@ -4,11 +4,11 @@ I build **AI tooling and automation** from Indonesia: MCP servers, LLM-powered p
 
 ### 🚀 What I'm building
 
-<a href="https://github.com/bintangtimurlangit/superslice">
+<a href="https://superslice.co">
   <img src="assets/superslice-banner.png" alt="superslice: STL in, print time and filament out" width="100%">
 </a>
 
-**[superslice](https://github.com/bintangtimurlangit/superslice)**: STL/3MF in, print time & filament usage out, as JSON. Built on PrusaSlicer.
+**[superslice](https://superslice.co)**: STL/3MF in, print time & filament usage out, as JSON. Built on PrusaSlicer.
 
 ### 🔌 MCP servers
 
