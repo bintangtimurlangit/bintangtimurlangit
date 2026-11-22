@@ -8,8 +8,6 @@ I build **AI tooling and automation** from Indonesia: MCP servers, LLM-powered p
   <img src="assets/superslice-banner.png" alt="superslice: STL in, print time and filament out" width="100%">
 </a>
 
-**[superslice](https://superslice.co)**: STL/3MF in, print time & filament usage out, as JSON. Built on PrusaSlicer.
-
 ### 🔌 MCP servers
 
 - **[tokopedia-mcp](https://github.com/bintangtimurlangit/tokopedia-mcp)**: search and browse Tokopedia listings.
