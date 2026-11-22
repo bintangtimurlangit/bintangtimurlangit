@@ -1,6 +1,6 @@
 ## Hi, I'm Bintang 👋
 
-I build **AI tooling and automation** from Indonesia: MCP servers, LLM-powered pipelines, and developer-friendly APIs. I like turning messy real-world problems into clean APIs and CLIs.
+I build **AI tooling and automation**: MCP servers, LLM-powered pipelines, and developer-friendly APIs. I like turning messy real-world problems into clean APIs and CLIs.
 
 ### 🚀 What I'm building
 
